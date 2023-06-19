@@ -1,0 +1,11 @@
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\bin\Debug\Attendance_Event_System.exe
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\bin\Debug\Attendance_Event_System.exe.config
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.csprojResolveAssemblyReference.cache
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.Form1.resources
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.MainForm.resources
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.csproj.GenerateResource.Cache
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.exe
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.pdb
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\bin\Debug\Attendance_Event_System.pdb
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.Home.resources
+C:\Users\Name\Documents\SharpDevelop Projects\Attendance_Event_System\Attendance_Event_System\obj\Debug\Attendance_Event_System.Studentform.resources
